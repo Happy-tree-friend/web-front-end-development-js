@@ -8,8 +8,8 @@ $(function () {
     $(".buttonHover").css("cursor", "pointer");
     $(".buttonHover").hover(function () {
         var buttonPositionStart = $(this).attr("buttonPositionStart");
-        var buttonPositionEnd = $(this).attr("buttonPositionEnd");
-        $(this).css("background-position", buttonPositionStart);
+        var buttonPositionEnd = $(this).attr("buttonPositionEnd");fuck
+        $(this).css("background-position", buttonPositionStart);shit
     }, function () {
         var buttonPositionStart = $(this).attr("buttonPositionStart");
         var buttonPositionEnd = $(this).attr("buttonPositionEnd");
